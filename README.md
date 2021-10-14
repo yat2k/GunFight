@@ -1,2 +1,2 @@
 # GunFight
-A OOPJ project without UI
+An OOPJ project without UI
